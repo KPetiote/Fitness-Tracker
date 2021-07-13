@@ -63,7 +63,7 @@ The program will then initialize and function as shown in the demo.
 
 ## Links
 - [Github Repository URL](https://github.com/Kpetiote/Fitness-Tracker)
-- [Hero Live Site](https://drive.google.com/file/d/13mXpywZBOOWwfi1llPRDf5w1wSd55bcT/view?usp=sharing)
+- [Hero Live Site](https://kenpet-fitness-tracker.herokuapp.com/)
 ## Contribution
 None
 
