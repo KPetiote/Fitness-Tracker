@@ -1,4 +1,4 @@
-# 
+# Fitness Tracker
 ![Top Language](https://img.shields.io/github/languages/top/Kpetiote/Fitness-Tracker)
 ![Repository Size](https://img.shields.io/github/repo-size/Kpetiote/Fitness-Tracker)
 ![Last Commit](https://img.shields.io/github/last-commit/Kpetiote/Fitness-Tracker)
