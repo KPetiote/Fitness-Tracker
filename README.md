@@ -22,7 +22,7 @@ Upon first loading the program, the end-user will see the data in the databse sy
 User should be able to create, delete and update data in the database system.
 
 ## Demo
-![Alt text](./assets/images/Fitness-Tracker.png "Fitness-Tracker")
+![Alt text](./public/images/fitness-tracker.gif "Fitness-Tracker")
 
 ## Program Installation
 To use this program we will need to install Node.js & MongoDB.\
@@ -53,8 +53,12 @@ npm run start
 The program will then initialize and function as shown in the demo.
 
 ## Technologies
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Express](https://www.npmjs.com/package/express)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Javascript](https://www.javascript.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Morgan](https://www.npmjs.com/package/morgan)
 - [Node.js](https://nodejs.org/en/about/)
 
 ## Links
