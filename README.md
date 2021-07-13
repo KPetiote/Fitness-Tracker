@@ -47,7 +47,7 @@ After using the program installation instructions, we can then start using the p
 Remaining in the terminal, we can use the following command to run the application:
 
 ```bash
-npm run start
+npm start
 ```
 
 The program will then initialize and function as shown in the demo.
