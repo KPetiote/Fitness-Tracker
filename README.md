@@ -17,9 +17,9 @@
 * [License](#license)
 
 ## Description
-The purpose of this application is to allow users to manage an e-commerce website.\
-Upon first loading the program, the end-user will see the data in the databse system.\
-User should be able to create, delete and update data in the database system.
+The purpose of this application is to allow users to track their workout.\
+Upon first loading the program, the end-user will be shown their last workout.\
+User should be able to add a workout based on type, then prompted for additional information.
 
 ## Demo
 ![Alt text](./public/images/fitness-tracker.gif "Fitness-Tracker")
